@@ -1,0 +1,18 @@
+h1{
+    margin: 10px 10px 10px  400px;
+    padding: 0 px;
+    background-color: yellow;
+    color: red;
+    text-align: center;
+    width: 50%;
+    height: 50%;
+    
+}
+p{
+    color: hotpink;
+    text-decoration: rgb(16, 237, 93);
+    word-wrap: initial;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    font-style: italic;
+}
